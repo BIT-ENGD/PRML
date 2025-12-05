@@ -4,3 +4,7 @@
 免费下载。
 
 配套源码： https://github.com/ctgk/PRML
+
+
+PRML_cn.rar : 中文版
+Bishop_book.pdf ：英文版
